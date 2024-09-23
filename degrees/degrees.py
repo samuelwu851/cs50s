@@ -99,7 +99,7 @@ def shortest_path(source, target):
         -  If node is goal, return the solution
         -  Expand node, add resulting nodes to the frontier
     """
-    frontier = QueueFrontier() #BFS
+    frontier = QueueFrontier()  # BFS
     explored = set()
     frontier.add(Node(source, None, None))
     while not frontier.empty():
@@ -121,7 +121,7 @@ def shortest_path(source, target):
 
     return None
 
-    #===============================================
+    # ===============================================
     # while not frontier.empty():
     #     # Remove the first node from frontier and add it to explored
     #     node = frontier.remove()
@@ -142,8 +142,6 @@ def shortest_path(source, target):
     #             frontier.add(Node(person_id, node, neighbor))
     # # Return No Solution if the frontier is empty
     # return None
-
-
 
 
 def person_id_for_name(name):
