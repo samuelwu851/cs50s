@@ -1,0 +1,3 @@
+I had a country walk on Thursday and came home in a dreadful mess.
+N V Det Adj N P N Conj V N P Det Adj N
+NP VP Conj VP

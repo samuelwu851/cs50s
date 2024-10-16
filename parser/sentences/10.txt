@@ -1,0 +1,3 @@
+I had a little moist red paint in the palm of my hand.
+N V Det Adj Adj Adj N P Det N P Det N
+NP VP

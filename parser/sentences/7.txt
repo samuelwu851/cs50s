@@ -1,0 +1,4 @@
+She never said a word until we were at the door here.
+N Adv V Det N Conj N V P Det N Adv
+N Adv V NP Conj N V P NP Adv
+NP Adv VP Conj VP

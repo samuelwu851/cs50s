@@ -1,0 +1,4 @@
+My companion smiled an enigmatical smile.
+(Det N) V Det Adj N
+NP V NP
+NP VP NP

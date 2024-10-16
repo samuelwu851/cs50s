@@ -1,0 +1,4 @@
+Holmes lit a pipe.
+N V (Det N)
+N V NP
+NP VP

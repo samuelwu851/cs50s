@@ -1,0 +1,4 @@
+Holmes sat in the red armchair and he chuckled.
+N V (Det Adj N) Conj N V
+N V NP Conj N V
+NP VP Conj NP VP
